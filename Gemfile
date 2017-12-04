@@ -31,4 +31,3 @@ source "https://rubygems.org"
 # Used by Travis CI
 gem "html-proofer"
 gem "cowsay"
-gem "github-pages" 
