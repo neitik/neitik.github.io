@@ -2,6 +2,8 @@ language: ruby
 rvm:
 - 2.3.3
 
+group: edge
+
 before_script:
  - sudo apt-get install tree
  - tree
