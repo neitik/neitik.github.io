@@ -6,7 +6,6 @@ rvm:
 
 before_script:
  - sudo apt-get install tree
- - tree
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
