@@ -247,7 +247,7 @@ PLATFORMS
 DEPENDENCIES
   cowsay
   github-pages
-  html-proofer
+  html-proofer (>= 3.7.6)
   tzinfo-data
 
 BUNDLED WITH
