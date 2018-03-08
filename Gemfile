@@ -28,5 +28,5 @@ gem "github-pages"
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Used by Travis CI
-gem "html-proofer", ">= 3.7.6"
+gem "html-proofer"
 gem "cowsay"
