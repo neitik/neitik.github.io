@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-IN MEMORY OF FRIENDLY-WAFFLE. RIP.
 ```
  ______
 < Moo! >
